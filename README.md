@@ -2,17 +2,17 @@
 
 Mental health is important at every stage of life, from childhood and adolescence through adulthood, even more in the digital world created due to the ongoing pandemic and lockdown. Although we have huge medical research on these disorders, there is no lab test to diagnose any of the disorders. Moreover, early detection of degenerative disease can prevent irreversible changes if detected at a later stage during EEG, MRI, etc. In today's world of voice automation, virtual classes, and meetings, speech data is the easiest sample that can be collected from anyone, using existing devices like phones, laptops.
 
-## In this project, we wish to identify psychiatric disorders through patient's speech
+### In this project, we wish to identify psychiatric disorders through patient's speech
 Review paper : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7042657/
 
 List of articles of interest : https://tinyurl.com/y6ojfq56
 
-## Task 1 : Import the data from Mobile Device Voice Recordings at King's College London (https://zenodo.org/record/2867216#.X5-_tNtS-gQ). Use the API from https://github.com/simonw/datasette to make scaling up easier. 
-## Task 2 : Reproduce the results from https://www.ijraset.com/fileserve.php?FID=31054
-## Task 3 : Implement any Machine Learning algorithm with or without(end-to-end) feature engineering to achieve the accuracy greater than State of the art. 
+#### Task 1 : Import the data from Mobile Device Voice Recordings at King's College London (https://zenodo.org/record/2867216#.X5-_tNtS-gQ). Use the API from https://github.com/simonw/datasette to make scaling up easier. 
+#### Task 2 : Reproduce the results from https://www.ijraset.com/fileserve.php?FID=31054
+#### Task 3 : Implement any Machine Learning algorithm with or without(end-to-end) feature engineering to achieve the accuracy greater than State of the art. 
 
-# speech-nlp-datasets
-Contains links to publicly available datasets for modeling health outcomes using speech and language.
+# Speech-nlp-datasets
+Links to publicly available datasets for modeling health outcomes using speech and language : 
 
 ## Speech-based Corpora
 - [[Corpus]](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-1597) **Speech Database of Typical Children and Children with SLI**  <br>
