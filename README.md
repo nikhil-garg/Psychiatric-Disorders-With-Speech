@@ -11,7 +11,7 @@ List of articles of interest : https://tinyurl.com/y6ojfq56
 #### Task 2 : Reproduce the results from https://www.ijraset.com/fileserve.php?FID=31054
 #### Task 3 : Implement any Machine Learning algorithm with or without(end-to-end) feature engineering to achieve the accuracy greater than State of the art. To start off, use https://github.com/espnet/espnet. 
 
-We wish to explore state of the art RNN architectures (GRU, LSTM, seq-to-seq, etc.), transfer learning and meta-learning (learning to learn) approaches for this task. These algorithms would be deployed in real time, mobile devices for identifying mental disorders from voice-calls, meetings, etc. 
+We wish to explore state of the art RNN architectures (GRU, LSTM, seq-to-seq, etc.), transfer learning and meta-learning (learning to learn) approaches for this task. These algorithms would be deployed in real time, low power mobile devices for identifying mental disorders from voice-calls, meetings, etc. 
 
 # Speech-nlp-datasets
 Links to publicly available datasets for modeling health outcomes using speech and language : 
