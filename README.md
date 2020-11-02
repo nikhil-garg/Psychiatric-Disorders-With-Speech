@@ -1,6 +1,6 @@
 # Psychiatric Disorders With Speech
 
-Mental health is an important problem in the 21st century, even more, due to the recent pandemic and lockdown. Although we have huge medical research on these disorders, there is no lab test to diagnose any of the disorders. Moreover, early detection of degenerative disease can prevent irreversible changes if detected at a later stage during EEG, MRI, etc. In today's world of voice automation, virtual classes, and meetings, speech data is the easiest sample that can be collected from anyone, using existing devices like phones, laptops.
+Mental health is important at every stage of life, from childhood and adolescence through adulthood, even more in the digital world created due to the ongoing pandemic and lockdown. Although we have huge medical research on these disorders, there is no lab test to diagnose any of the disorders. Moreover, early detection of degenerative disease can prevent irreversible changes if detected at a later stage during EEG, MRI, etc. In today's world of voice automation, virtual classes, and meetings, speech data is the easiest sample that can be collected from anyone, using existing devices like phones, laptops.
 
 ## In this project, we wish to identify psychiatric disorders through patient's speech
 Review paper : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7042657/
