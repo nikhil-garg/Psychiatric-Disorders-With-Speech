@@ -7,7 +7,7 @@ Review paper : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7042657/
 
 List of articles of interest : https://tinyurl.com/y6ojfq56
 
-#### Task 1 : Import the data from Mobile Device Voice Recordings at King's College London (https://zenodo.org/record/2867216#.X5-_tNtS-gQ).
+#### Task 1 : Import the data from Mobile Device Voice Recordings at King's College London (https://zenodo.org/record/2867216#.X5-_tNtS-gQ). Create a PyTorch dataloader for the dataset and layout procedure for adding more datasets in future. 
 #### Task 2 : Reproduce the results from https://www.ijraset.com/fileserve.php?FID=31054
 #### Task 3 : Implement any Machine Learning algorithm with or without(end-to-end) feature engineering to achieve the accuracy greater than State of the art. To start off, use https://github.com/espnet/espnet. 
 
