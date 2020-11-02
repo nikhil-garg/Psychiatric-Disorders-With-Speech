@@ -7,9 +7,9 @@ Review paper : https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7042657/
 
 List of articles of interest : https://tinyurl.com/y6ojfq56
 
-#### Task 1 : Import the data from Mobile Device Voice Recordings at King's College London (https://zenodo.org/record/2867216#.X5-_tNtS-gQ). Use the API from https://github.com/simonw/datasette to make scaling up easier. 
+#### Task 1 : Import the data from Mobile Device Voice Recordings at King's College London (https://zenodo.org/record/2867216#.X5-_tNtS-gQ).
 #### Task 2 : Reproduce the results from https://www.ijraset.com/fileserve.php?FID=31054
-#### Task 3 : Implement any Machine Learning algorithm with or without(end-to-end) feature engineering to achieve the accuracy greater than State of the art. 
+#### Task 3 : Implement any Machine Learning algorithm with or without(end-to-end) feature engineering to achieve the accuracy greater than State of the art. To start off, use https://github.com/espnet/espnet. 
 
 # Speech-nlp-datasets
 Links to publicly available datasets for modeling health outcomes using speech and language : 
