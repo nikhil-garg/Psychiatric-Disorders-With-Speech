@@ -10,8 +10,9 @@ List of articles of interest : https://tinyurl.com/y6ojfq56
 #### Task 1 : Import the data from Mobile Device Voice Recordings at King's College London (https://zenodo.org/record/2867216#.X5-_tNtS-gQ). Create a PyTorch dataloader for the dataset and layout procedure for adding more datasets in future. 
 #### Task 2 : Create scripts to visiualize the data using matplotlib, or any other python package. Implement any Machine Learning algorithm on the loaded dataset to define training and evaluation flow.   
 #### Task 3 : Reproduce the results from https://www.ijraset.com/fileserve.php?FID=31054
-#### Task 4 : Implement any Machine Learning algorithm with or without(end-to-end) feature engineering to achieve the accuracy greater than State of the art. To start off, use https://github.com/espnet/espnet. 
+#### Task 4 : Implement any Machine Learning algorithm with or without(end-to-end) feature engineering . To start off, use https://github.com/espnet/espnet.
 #### Task 5 : Create pytorch data loader for all the speech datasets listed below. (about 20)
+#### Task 6 : Convert the speech dataset to words for NLP analysis.
 
 We wish to explore state of the art RNN architectures (GRU, LSTM, seq-to-seq, etc.), transfer learning and meta-learning (learning to learn) approaches for this task. These algorithms would be deployed in real time, low power mobile devices for identifying mental disorders from voice-calls, meetings, etc. 
 
@@ -93,3 +94,9 @@ In addition to [DementiaBank](https://dementia.talkbank.org/access/), TalkBank c
  
  - **Nun Study** (contact [authors](https://www.ncbi.nlm.nih.gov/pubmed/8606473) for corpus?) <br>
  Diaries of 93 nuns to used to evaluate cognitive impairment (Alzheimer's disease) in later life. Also contains neuropsychology tests and autopsy information. Study was authored by ([Snowdon et al.,(1996)](https://pdfs.semanticscholar.org/03a9/2b940974756d0dbc4fa1a08f05b31ec9f18f.pdf))
+
+
+# Aspects to explore
+1. Acoustic features independent of context. Pitch, pauses, pronounciation etc. 
+2. Language features : The patterns present in speech-text converted corpus. 
+
