@@ -20,6 +20,8 @@ We wish to explore state of the art RNN architectures (GRU, LSTM, seq-to-seq, et
 Links to publicly available datasets for modeling health outcomes using speech and language : 
 
 ## Speech-based Corpora
+- Depression : https://dcapswoz.ict.usc.edu/
+
 - [[Corpus]](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-1597) **Speech Database of Typical Children and Children with SLI**  <br>
 Contains 103 children that are native Czech speakers with specific language impairment.
 [(Grill et al., 2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4786280/)
